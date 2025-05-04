@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Ciao! Sono [Il tuo nome]
 
-<!--
-**thomasperodi/thomasperodi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Benvenuto/a nel mio profilo GitHub! 🚀  
+Sono uno sviluppatore appassionato di tecnologia, codice pulito e soluzioni che fanno la differenza.
 
-Here are some ideas to get you started:
+## 🧠 Su di me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🧑‍💻 Attualmente lavoro con **Next.js 15**, **React 19** e **TypeScript**
+- 🔍 Mi piace esplorare nuove tecnologie e migliorare la **developer experience**
+- ⚙️ Amo creare **web app performanti**, scalabili e accessibili
+- 📈 Sempre alla ricerca di **ottimizzazione**, sia nel codice che nei processi
+
+## 🛠️ Tecnologie principali
+
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000&style=flat)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=fff&style=flat)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff&style=flat)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=fff&style=flat)
+
+## 📦 Alcuni progetti
+
+- 🧾 **Onemore** — Webapp per un'organizzazione di eventi - 🌐 (https://onemoreandfam.it)
+
+
+## 📬 Contatti
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/tuo-nome)
+- 📫 Email: [perodithomas88@gmail.com](mailto:perodithomas88@gmail.com)
+
+
+---
+
+Grazie per la visita! ⭐ Se trovi interessante qualcosa, lasciami una **star** o scrivimi!  
