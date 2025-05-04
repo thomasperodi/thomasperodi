@@ -1,4 +1,4 @@
-# 👋 Ciao! Sono [Il tuo nome]
+# 👋 Ciao! Sono Thomas
 
 Benvenuto/a nel mio profilo GitHub! 🚀  
 Sono uno sviluppatore appassionato di tecnologia, codice pulito e soluzioni che fanno la differenza.
