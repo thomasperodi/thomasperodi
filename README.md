@@ -25,7 +25,7 @@ Sono uno sviluppatore appassionato di tecnologia, codice pulito e soluzioni che 
 
 ## 📬 Contatti
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/tuo-nome)
+- 💼 [LinkedIn](https://www.linkedin.com/in/thomas-perodi-a99288309/)
 - 📫 Email: [perodithomas88@gmail.com](mailto:perodithomas88@gmail.com)
 
 
